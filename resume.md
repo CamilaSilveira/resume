@@ -10,9 +10,8 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-I am an excellent communicator who is passionate about Data and the power of Data in every industry, 
-with relevant experience in the latest technologies, and looking forward to providing data-driven 
-insights and solutions to the company’s decisions.
+I am an excellent communicator who is passionate about Data and the power of Data in every industry, with relevant experience in the latest technologies, and looking forward to providing data-driven insights and solutions to the company’s decisions. 
+My work is neat, well organized, documented and I take ownership of every task assigned. I can assure that my professionalism and commitment will be a valuable to your team. My passion to Data Engineering gives me the motivation to be constantly learning new technologies and different ways to solve problems.
 
 ## Experience
 
